@@ -10,6 +10,9 @@ The **ML-Powered Research Assistant** is a web application designed to assist re
 - **Keyword Extraction**: Extract relevant keywords from each document using spaCy.
 - **RAG-Powered Chatbot**: Chat with a Retrieval-Augmented Generation (RAG) chatbot to ask questions about the documents, powered by LLMs and embeddings.
 
+![landing](1.png)
+![analysis](2.png)
+
 ## Tech Stack
 ### Backend
 - **Framework**: FastAPI (Python)
