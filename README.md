@@ -3,6 +3,7 @@
 The **ML-Powered Research Assistant** is a web application designed to assist researchers by analyzing indiviual and multiple PDF research documents. It provides individual summaries, a comparative final summary, sentiment analysis, keyword extraction, and a RAG-powered chatbot to answer questions about the documents. The backend is built with FastAPI and leverages machine learning models for natural language processing, while the frontend is developed using Next.js with TypeScript and Tailwind CSS for a modern, responsive UI.
 
 ## Features
+![features](3.png)
 - **Upload Multiple PDFs**: Upload multiple research documents (PDFs) for analysis.
 - **Individual Summaries**: Generate concise summaries for each uploaded document.
 - **Final Summary**: Compare key themes and findings across all documents in a comparative summary.
